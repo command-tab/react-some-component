@@ -1,0 +1,13 @@
+{
+  "name": "react-some-component",
+  "version": "0.0.1",
+  "description": "Displays some component",
+  "main": "some-component.js",
+  "devDependencies": {},
+  "dependencies": {
+    "jsx-loader": "^0.12.2",
+    "react": "^0.12.2",
+    "react-tools": "^0.12.2",
+    "webpack": "^1.5.3"
+  }
+}
